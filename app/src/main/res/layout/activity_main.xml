@@ -215,7 +215,7 @@ android:background="@drawable/dateofbirth">
             android:id="@+id/fblogin"
             android:layout_width="350dp"
             android:layout_height="wrap_content"
-            android:layout_marginTop="350dp"
+            android:layout_marginTop="360dp"
             android:layout_gravity="center"
             >
 
