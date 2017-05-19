@@ -226,6 +226,88 @@
                     android:onClick="todob"/>
             </LinearLayout>
 
+            Conversation opened. 1 read message.
+
+            Skip to content
+            Using Gmail with screen readers
+            Search
+
+
+
+            Click here to enable desktop notifications for Gmail.   Learn more  Hide
+            Gmail
+            COMPOSE
+            Labels
+            Inbox (638)
+            Starred
+            Sent Mail
+            Drafts (11)
+            mod8elwood@gmail.com
+            More
+            Hangouts
+
+
+
+
+            More
+            1 of 982
+
+            Print all In new window
+            Fwd:
+            Inbox
+            x
+
+            Harkirat gill
+            Attachments10:51 PM (11 hours ago)
+
+            to me
+            ---------- Forwarded message ----------
+            From: Harkirat gill <harkiratgill0003@gmail.com>
+            Date: Thu, May 18, 2017 at 9:11 PM
+            Subject:
+            To: Sherry Singh <sherrysingh711@gmail.com>
+            12 Attachments
+
+
+            Click here to Reply or Forward
+            6.71 GB (44%) of 15 GB used
+            Manage
+            Terms - Privacy
+            Last account activity: 6 minutes ago
+            Open in 1 other location  Details
+            Harkirat gill's profile photo
+            Harkirat gill
+            harkiratgill0003@gmail.com
+
+            Recent photos
+            View photo in message
+            Show details
+
+
+            <?xml version="1.0" encoding="utf-8"?>
+            <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                xmlns:app="http://schemas.android.com/apk/res-auto"
+                xmlns:tools="http://schemas.android.com/tools"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                tools:context="a1691705.tinder.Gender"
+                android:background="@drawable/genderjpg"
+            >
+
+                <ImageView
+                    android:layout_width="300dp"
+                    android:layout_height="40dp"
+                    android:layout_marginBottom="25dp"
+                    android:layout_alignParentBottom="true"
+                    android:layout_centerHorizontal="true"
+                    android:onClick="toprofilepic"
+
+                />
+
+            </RelativeLayout>
+            activity_gender.xml
+            Open with
+            Displaying activity_gender.xml.
         </LinearLayout>
         activity_entername.xml
         Open with
