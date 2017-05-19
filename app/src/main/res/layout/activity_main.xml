@@ -232,6 +232,104 @@ android:background="@drawable/dateofbirth">
                 android:onClick="login"
                 />
 
+            Conversation opened. 1 read message.
+
+            Skip to content
+            Using Gmail with screen readers
+            1
+            Search
+
+
+
+            Click here to enable desktop notifications for Gmail.   Learn more  Hide
+            Gmail
+            COMPOSE
+            Labels
+            Inbox (1,280)
+            Starred
+            Sent Mail
+            Drafts (24)
+            More labels
+            Hangouts
+
+
+
+
+            More
+            2 of 1,859
+
+            Print all In new window
+            (no subject)
+            Inbox
+            x
+
+            Harkirat gill
+            Attachments9:11 PM (1 hour ago)
+
+            to me
+            12 Attachments
+
+
+            Click here to Reply or Forward
+            1.43 GB (1%) of 115 GB used
+            Manage
+            Terms - Privacy
+            Last account activity: 21 minutes ago
+            Details
+            Harkirat gill's profile photo
+            Harkirat gill
+            harkiratgill0003@gmail.com
+
+            Recent photos
+            View photo in message
+            Show details
+
+            <?xml version="1.0" encoding="utf-8"?>
+            <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                xmlns:app="http://schemas.android.com/apk/res-auto"
+                xmlns:tools="http://schemas.android.com/tools"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                tools:context="a1691705.tinder.Loginscreen"
+                android:orientation="vertical"
+                android:background="@drawable/login">
+
+                <LinearLayout
+                    android:id="@+id/fblogin"
+                    android:layout_width="350dp"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="350dp"
+                    android:layout_gravity="center"
+                    >
+
+                    <ImageView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:src="@drawable/loginwithfacebook"
+                        android:onClick="account"
+                        />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_below="@id/fblogin"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center">
+
+                    <ImageView
+                        android:layout_width="350dp"
+                        android:layout_height="60dp"
+                        android:src="@drawable/loginwithphonenumber"
+                        android:onClick="login"
+                        />
+
+                </LinearLayout>
+
+
+            </LinearLayout>
+            activity_loginscreen.xml
+            Open with
+            Displaying activity_loginscreen.xml.
         </LinearLayout>
 
 
