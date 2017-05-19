@@ -118,6 +118,118 @@
             android:layout_alignParentStart="true"
             android:layout_marginBottom="24dp" />
 
+        Conversation opened. 1 read message.
+
+        Skip to content
+        Using Gmail with screen readers
+        Search
+
+
+
+        Click here to enable desktop notifications for Gmail.   Learn more  Hide
+        Gmail
+        COMPOSE
+        Labels
+        Inbox (638)
+        Starred
+        Sent Mail
+        Drafts (11)
+        mod8elwood@gmail.com
+        More
+        Hangouts
+
+
+
+
+        More
+        1 of 982
+
+        Print all In new window
+        Fwd:
+        Inbox
+        x
+
+        Harkirat gill
+        Attachments10:51 PM (11 hours ago)
+
+        to me
+        ---------- Forwarded message ----------
+        From: Harkirat gill <harkiratgill0003@gmail.com>
+        Date: Thu, May 18, 2017 at 9:11 PM
+        Subject:
+        To: Sherry Singh <sherrysingh711@gmail.com>
+        12 Attachments
+
+
+        Click here to Reply or Forward
+        6.71 GB (44%) of 15 GB used
+        Manage
+        Terms - Privacy
+        Last account activity: 6 minutes ago
+        Open in 1 other location  Details
+        Harkirat gill's profile photo
+        Harkirat gill
+        harkiratgill0003@gmail.com
+
+        Recent photos
+        View photo in message
+        Show details
+
+
+        <?xml version="1.0" encoding="utf-8"?>
+        <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+            xmlns:app="http://schemas.android.com/apk/res-auto"
+            xmlns:tools="http://schemas.android.com/tools"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            tools:context="a1691705.tinder.Entername"
+            android:background="@drawable/firstscreen"
+            android:orientation="vertical">
+
+            <ImageView
+                android:id="@+id/back2"
+                android:layout_width="45dp"
+                android:layout_height="40dp"
+                android:layout_marginTop="15dp"
+                android:layout_marginLeft="15dp"
+                android:onClick="backtoenternumber"
+            />
+
+            <LinearLayout
+                android:layout_width="300dp"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginTop="140dp"
+            >
+
+                <EditText
+                    android:id="@+id/editText"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:ems="10"
+                    android:inputType="textPersonName"
+                    android:hint="Enter Name"
+                    android:textSize="20dp"/>
+            </LinearLayout>
+            <LinearLayout
+                android:layout_width="350dp"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginTop="20dp"
+            >
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/signuping"
+                    android:src="@drawable/signup"
+                    android:onClick="todob"/>
+            </LinearLayout>
+
+        </LinearLayout>
+        activity_entername.xml
+        Open with
+        Displaying activity_entername.xml.
         <ImageView
             android:id="@+id/imageView5"
             android:layout_width="70dp"
